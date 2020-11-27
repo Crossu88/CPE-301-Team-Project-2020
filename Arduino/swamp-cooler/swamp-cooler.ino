@@ -1,6 +1,5 @@
 /* -- Includes -- */
-#include <Arduino.h>
-#include <dht.h>
+#include "dht.h"
 #include <LiquidCrystal.h>
 /* -- Preprocessor Definitions -- */
 #define DHT11_PIN 54
